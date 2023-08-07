@@ -71,7 +71,7 @@ const Products = () => {
       <div className="mx-auto max-w-6xl">
         <div className="flex justify-between items-center mb-3 px-3 lg:px-0 pt-28">
           <h1 className="font-bold text-4xl mb-6">Products</h1>
-          <a href="/Products/Add">
+          <a href="/products/add">
             <span
               role="button"
               className="inline-block bg-blue-500 text-white rounded-lg px-5 py-2 hover:bg-blue-600"

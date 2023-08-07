@@ -45,7 +45,7 @@ const ProductCard: React.FC<Product> = ({ id, title, price, image }) => {
           </button>
           <a
             // href={`/Products/Edit/${id}`}
-            href={'/Products/Edit'}
+            href={'/products/edit'}
             className="border text-center border-emerald-600 bg-white text-emerald-600 block w-full px-5 py-2 hover:bg-emerald-600 hover:text-white rounded-lg text-sm"
             //data-fdprocessedid={`edit-${id}`}
           >
